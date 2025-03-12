@@ -183,7 +183,7 @@ def get_ai_answer(model, input):
             "n": 1,
         }
         headers = {
-            "Authorization": "Bearer sk-mqbxvtugplfhbxewhhyzdcrnoalqsmbravrtlihzsosekbub",
+            "Authorization": "Bearer sk-xxx",
             "Content-Type": "application/json"
         }
 
